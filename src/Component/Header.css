@@ -1,0 +1,33 @@
+.main{
+background-image: url('https://media.istockphoto.com/photos/empty-white-studio-room-with-light-and-shadow-abstract-background-picture-id1169861736?k=20&m=1169861736&s=612x612&w=0&h=yfYdtGRUwMeBQSJ3ui1cun0fbKKRCEezT3rgsq-kQxs=');
+/* height: 100vmax; */
+min-height: 90vh;
+max-height: 150vh;
+
+opacity: 0.8;
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    margin: 20px 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8))
+}
+.box img{
+    height: 250px;
+    width: 250px;
+    
+}
+.same{
+text-align: center;
+font-weight: bold;
+color: black;
+
+}
+#Gopal{
+    text-align: end;
+    font-size:x-small;
+    
+}

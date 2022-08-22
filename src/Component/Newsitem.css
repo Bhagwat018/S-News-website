@@ -1,0 +1,21 @@
+.maiiiin{
+
+margin: 20px 20px ;
+
+
+}
+.maiiiin img{
+height: 200px;
+}
+.cont2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    height: auto;
+    background-size: cover;
+
+}
+.card-title{
+    font-weight: bold;
+    font-size: x-large;
+}
